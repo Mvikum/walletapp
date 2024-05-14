@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">walletOne</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="amount">Balance</string>
+    <string name="amountValue"></string>
+    <string name="deposit">Deposit</string>
+    <string name="expense">Expense</string>
+</resources>
